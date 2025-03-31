@@ -25,6 +25,7 @@ Geographical sales distribution
 
 ## Tools & Technologies
 
+<img src="./Powerbi.png" width="300" height="150"/>&nbsp;
 
 Visualization Tool: Power BI (or any BI tool used for analysis)
 
